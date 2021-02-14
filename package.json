@@ -1,5 +1,5 @@
 {
-  "name": "Tech-Geek-blog",
+  "name": "blogger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2021-Friend/Tech-Geek-blog.git"
+    "url": "git+https://github.com/2021-Friend/Blogger.git"
   },
   "author": "varshith",
-  "license": "ISC",
+  "license": "mpl-2.0",
   "bugs": {
-    "url": "https://github.com/2021-Friend/Tech-Geek-blog/issues"
+    "url": "https://github.com/2021-Friend/Blogger/issues"
   },
-  "homepage": "https://github.com/2021-Friend/Tech-Geek-blogr#readme",
+  "homepage": "https://github.com/2021-Friend/Blogger#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
