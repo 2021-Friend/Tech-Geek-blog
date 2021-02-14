@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2021-Friend/Blogger.git"
+    "url": "git+https://github.com/2021-Friend/Tech-Geek-blog.git"
   },
   "author": "varshith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/2021-Friend/Blogger/issues"
+    "url": "https://github.com/2021-Friend/Tech-Geek-blog/issues"
   },
-  "homepage": "https://github.com/2021-Friend/Blogger#readme",
+  "homepage": "https://github.com/2021-Friend/Tech-Geek-blogr#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
